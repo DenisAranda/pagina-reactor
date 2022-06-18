@@ -1,3 +1,10 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
 h1 {
     color:blueviolet
+}
+p {
+    color: aqua;
+    display: inline-block;
 }
